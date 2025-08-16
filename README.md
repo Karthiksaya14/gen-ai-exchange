@@ -16,3 +16,36 @@ We combine Google Cloud’s GenAI stack with multi-agent orchestration to provid
 
 🤝 Empathetic – culturally sensitive, human-like, and action-oriented.
 
+✨ Key Features
+
+🔐 Confidential AI Guidance – privacy-first chat + journaling agents.
+
+📝 Simplified Explanations – break down complex docs/feelings/stories into simple language.
+
+🗣️ Multilingual Support – supports major Indian languages.
+
+🎨 Generative Storytelling – auto-creates content (posts, reels, guides).
+
+🤖 AI Agent Ecosystem – each agent handles a task (guide, analyzer, storyteller).
+
+🛠️ Tech Stack
+
+Frontend: React + TailwindCSS (minimal, clean UI)
+
+Backend: Node.js / Python FastAPI (for API orchestration)
+
+AI & Cloud:
+
+Google Cloud Vertex AI / Generative AI Studio
+
+LangChain for agent orchestration
+
+Firebase / Firestore for storage
+
+Other:
+
+WebRTC / Voice support (for accessibility)
+
+Docker (for deployment)
+
+
